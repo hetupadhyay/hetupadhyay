@@ -17,7 +17,9 @@ I'm a B.Tech Computer Engineering student at the Institute of Advanced Research,
 |---|---|---|
 | [**Sentinel**](https://github.com/hetupadhyay/Sentinel) | Fraud and scam detection engine for job posts, URLs, messages and impersonation, with explainable risk scores | FastAPI · PostgreSQL · Redis · Next.js · Docker |
 | **Network Security Assessment Lab** | Reconnaissance, enumeration, packet analysis and MITM demonstrations in an isolated Windows lab | Kali Linux · Nmap · Bettercap · Wireshark |
-| **More in progress** | Several projects across full-stack, AI and security are in active private development and will go public as they ship | — |
+| [**Cryptex**](https://github.com/hetupadhyay/cryptex) | Ten classical ciphers animated one letter at a time, the attacks that break them, a working Enigma and daily puzzles. [Live site](https://cryptexciphers.vercel.app) | JavaScript · Node · PostgreSQL · Playwright |
+| **STUD** | Build in progress | — |
+| **More coming soon** | More projects across full-stack, AI and security, private until they ship | — |
 
 ---
 
@@ -66,5 +68,6 @@ I'm a B.Tech Computer Engineering student at the Institute of Advanced Research,
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hetupadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetupadhyay/)
-[![Email](https://img.shields.io/badge/Email-work.hetupadhyay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.hetupadhyay@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hetnupadhyay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetnupadhyay@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-hetnupadhyay-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hetnupadhyay)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hetupadhyay.github.io-111111?style=for-the-badge&logo=github&logoColor=white)](https://hetupadhyay.github.io)
