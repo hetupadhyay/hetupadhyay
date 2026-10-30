@@ -5,25 +5,19 @@
 I'm a B.Tech Computer Engineering student at the Institute of Advanced Research, Gandhinagar (2024–2028), currently an intern at **Adjudo AI**, where we work on explainable AI for health insurance claim decisions. I like building systems that are fast, observable, and hard to break.
 
 - **Now:** Intern @ Adjudo AI · Community Associate @ Turning Point Community
-- **Building:** [Sentinel](https://github.com/hetupadhyay/Sentinel), a multi-signal fraud and scam detection engine
+- **Building:** full-stack products, AI applications and security tooling, several in private development
 - **Learning:** Microsoft Azure Security Engineer (AZ-500), bug bounty, AI-driven threat detection
 - **Based in:** Ahmedabad, India
 
 ---
 
-### Featured project
+### Projects
 
-#### [Sentinel: Multi-Signal Fraud Detection Engine](https://github.com/hetupadhyay/Sentinel)
-
-Full-stack platform that scores job postings, URLs, messages, and impersonation attempts for fraud risk, with an explainable breakdown of every signal behind the score.
-
-- **Backend:** FastAPI (Python 3.11) REST API, SQLAlchemy + Alembic on PostgreSQL, structured JSON logging, global exception handling
-- **Security:** JWT authentication, Redis-backed rate limiting and session caching, async background audit logging
-- **Detectors:** modular, independent modules for recruitment fraud, phishing URLs, social-engineering messages, and identity impersonation
-- **Frontend:** Next.js + React with Zustand state management and Framer Motion
-- **DevOps:** the whole stack (frontend, API, database, cache) runs with one `docker compose up`
-
-`FastAPI` `PostgreSQL` `Redis` `JWT` `Next.js` `TypeScript` `Docker`
+| Project | What it is | Stack |
+|---|---|---|
+| [**Sentinel**](https://github.com/hetupadhyay/Sentinel) | Fraud and scam detection engine for job posts, URLs, messages and impersonation, with explainable risk scores | FastAPI · PostgreSQL · Redis · Next.js · Docker |
+| **Network Security Assessment Lab** | Reconnaissance, enumeration, packet analysis and MITM demonstrations in an isolated Windows lab | Kali Linux · Nmap · Bettercap · Wireshark |
+| **More in progress** | Several projects across full-stack, AI and security are in active private development and will go public as they ship | — |
 
 ---
 
@@ -57,10 +51,9 @@ Full-stack platform that scores job postings, URLs, messages, and impersonation 
 
 ---
 
-### Security work
+### Security training
 
-- **Network security assessment:** controlled reconnaissance, service enumeration, packet analysis, and MITM demonstrations in a lab Windows environment using Nmap, Bettercap, Wireshark, and Kali Linux
-- **Training:** Ethical Hacking and Cybersecurity Essentials (Craw Security × IIT Bombay Techfest), NASSCOM FutureSkills Prime – Cybersecurity, Cybercrime & Cyber Laws (Rashtriya Raksha University), Cyber Security Training & Internship (Acmegrade)
+- Ethical Hacking and Cybersecurity Essentials (Craw Security × IIT Bombay Techfest), NASSCOM FutureSkills Prime – Cybersecurity, Cybercrime & Cyber Laws (Rashtriya Raksha University), Cyber Security Training & Internship (Acmegrade)
 
 ### Leadership
 
