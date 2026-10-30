@@ -2,7 +2,7 @@
 
 **Computer Engineering undergraduate building secure backend systems at the intersection of cybersecurity, AI, and full-stack engineering.**
 
-I'm a B.Tech Computer Engineering student at the Institute of Advanced Research, Gandhinagar (2024–2028), currently an intern at **Adjudo AI**, where we work on explainable AI for health insurance claim decisions. I like building systems that are fast, observable, and hard to break.
+I'm a B.Tech Computer Engineering student at the Institute of Advanced Research, Gandhinagar (2024–2028), currently an intern at **Adjudo AI**, where I train machine learning models for explainable health insurance claim decisions. I like building systems that are fast, observable, and hard to break.
 
 - **Now:** Intern @ Adjudo AI · Community Associate @ Turning Point Community
 - **Building:** full-stack products, AI applications and security tooling, several in private development
