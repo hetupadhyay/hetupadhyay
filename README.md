@@ -1,12 +1,12 @@
 # Hi, I'm Het Upadhyay
 
-**Computer Engineering undergraduate building secure backend systems at the intersection of cybersecurity, AI, and full-stack engineering.**
+**Computer Engineering undergraduate working on cybersecurity and AI: securing systems, and the AI that runs them.**
 
-I'm a B.Tech Computer Engineering student at the Institute of Advanced Research, Gandhinagar (2024–2028), currently an intern at **Adjudo AI**, where I train machine learning models for explainable health insurance claim decisions. I like building systems that are fast, observable, and hard to break.
+I'm a B.Tech Computer Engineering student at the Institute of Advanced Research, Gandhinagar (2024–2028), currently an intern at **Adjudo AI**, where I train machine learning models for explainable health insurance claim decisions. My core is offensive security: understanding how systems break, then making them hold.
 
-- **Now:** Intern @ Adjudo AI · Community Associate @ Turning Point Community
+- **Now:** Machine learning intern @ Adjudo AI · Community Associate @ Turning Point Community
 - **Building:** full-stack products, AI applications and security tooling, several in private development
-- **Learning:** Microsoft Azure Security Engineer (AZ-500), bug bounty, AI-driven threat detection
+- **Learning:** CompTIA Security+, CEH, bug bounty, AI security
 - **Based in:** Ahmedabad, India
 
 ---
@@ -16,7 +16,7 @@ I'm a B.Tech Computer Engineering student at the Institute of Advanced Research,
 | Project | What it is | Stack |
 |---|---|---|
 | [**Sentinel**](https://github.com/hetupadhyay/Sentinel) | Fraud and scam detection engine for job posts, URLs, messages and impersonation, with explainable risk scores | FastAPI · PostgreSQL · Redis · Next.js · Docker |
-| **Network Security Assessment Lab** | Reconnaissance, enumeration, packet analysis and MITM demonstrations in an isolated Windows lab | Kali Linux · Nmap · Bettercap · Wireshark |
+| **Network Security Assessment Lab** | Acmegrade capstone: reconnaissance, enumeration, MITM and Exploit-DB exploitation against a Windows target in an isolated lab | Kali Linux · Nmap · Bettercap · Wireshark |
 | [**Cryptex**](https://github.com/hetupadhyay/cryptex) | Ten classical ciphers animated one letter at a time, the attacks that break them, a working Enigma and daily puzzles. [Live site](https://cryptexciphers.vercel.app) | JavaScript · Node · PostgreSQL · Playwright |
 | **STUD** | Build in progress | — |
 | **More coming soon** | More projects across full-stack, AI and security, private until they ship | — |
@@ -26,10 +26,11 @@ I'm a B.Tech Computer Engineering student at the Institute of Advanced Research,
 ### Tech stack
 
 **Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend & data**
@@ -55,13 +56,15 @@ I'm a B.Tech Computer Engineering student at the Institute of Advanced Research,
 
 ### Security training
 
-- Ethical Hacking and Cybersecurity Essentials (Craw Security × IIT Bombay Techfest), NASSCOM FutureSkills Prime – Cybersecurity, Cybercrime & Cyber Laws (Rashtriya Raksha University), Cyber Security Training & Internship (Acmegrade)
+- **Acmegrade:** 3-month cybersecurity training internship
+- Ethical Hacking and Cybersecurity Essentials (Craw Security × IIT Bombay Techfest), NASSCOM FutureSkills Prime – Cybersecurity, Cybercrime & Cyber Laws (Rashtriya Raksha University)
 
-### Leadership
+### Leadership and events
 
+- **Event Manager, Robofest Gujarat 5.0 and Science Carnival 2026** — managed the Proof of Concept round, the Grand Finale and Science Carnival, co-hosted by DST Gujarat, GUJCOST and Science City
+- **Head of Software Team and Junior Manager (OGT), AIESEC Ahmedabad** — ran internal platforms and automation; counselled 15+ students, hit ~95% of monthly targets
 - **Secretary, Cyber Club, IAR** — ran cybersecurity workshops and awareness sessions across the university
-- **Junior Manager, Outgoing Global Talent, AIESEC Ahmedabad** — counselled 15+ students, hit ~95% of monthly targets, wrote a 45-page outreach strategy blueprint
-- **University Liaison, IIT Bombay Techfest** — official point of contact between Techfest and IAR
+- **University Liaison and Event Manager, IIT Bombay Techfest** — organised a robotics workshop at IAR with VASCSC; our line follower robot placed **3rd** in the Techfest semi-finals
 
 ---
 
